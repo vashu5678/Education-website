@@ -62,7 +62,7 @@ html{
     border-radius: 5px;
 }
 .background{
-    background: rgba(0,0,0,0.5) url('image/city image.jpg');
+    background: rgba(0,0,0,0.5) url('city image.jpg');
     background-size: cover;
     background-blend-mode:darken;
 }
